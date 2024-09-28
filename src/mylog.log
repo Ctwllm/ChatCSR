@@ -1,0 +1,131 @@
+2024-09-13 05:21:42,450 - logger - INFO - -----Generating test for mutant 102...
+2024-09-13 05:21:49,516 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode102Test.java
+2024-09-13 05:21:49,516 - logger - INFO - Test code for No. 102 mutant generated.
+2024-09-13 05:21:49,517 - logger - INFO - -----Generating test for mutant 113...
+2024-09-13 05:21:58,914 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode113Test.java
+2024-09-13 05:21:58,915 - logger - INFO - Test code for No. 113 mutant generated.
+2024-09-13 05:21:58,915 - logger - INFO - -----Generating test for mutant 12...
+2024-09-13 05:22:15,808 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode12Test.java
+2024-09-13 05:22:15,808 - logger - INFO - Test code for No. 12 mutant generated.
+2024-09-13 05:22:15,808 - logger - INFO - -----Generating test for mutant 144...
+2024-09-13 05:22:24,106 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode144Test.java
+2024-09-13 05:22:24,107 - logger - INFO - Test code for No. 144 mutant generated.
+2024-09-13 05:22:24,107 - logger - INFO - -----Generating test for mutant 17...
+2024-09-13 05:22:38,869 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode17Test.java
+2024-09-13 05:22:38,870 - logger - INFO - Test code for No. 17 mutant generated.
+2024-09-13 05:22:38,870 - logger - INFO - -----Generating test for mutant 20...
+2024-09-13 05:22:51,165 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode20Test.java
+2024-09-13 05:22:51,165 - logger - INFO - Test code for No. 20 mutant generated.
+2024-09-13 05:22:51,165 - logger - INFO - -----Generating test for mutant 211...
+2024-09-13 05:23:07,691 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\IntegerBloomFilter211Test.java
+2024-09-13 05:23:07,691 - logger - INFO - Test code for No. 211 mutant generated.
+2024-09-13 05:23:07,692 - logger - INFO - -----Generating test for mutant 30...
+2024-09-13 05:23:19,654 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\Node30Test.java
+2024-09-13 05:23:19,654 - logger - INFO - Test code for No. 30 mutant generated.
+2024-09-13 05:23:19,654 - logger - INFO - -----Generating test for mutant 35...
+2024-09-13 05:23:29,865 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode35Test.java
+2024-09-13 05:23:29,865 - logger - INFO - Test code for No. 35 mutant generated.
+2024-09-13 05:23:29,865 - logger - INFO - -----Generating test for mutant 40...
+2024-09-13 05:23:29,866 - logger - ERROR - File not found: C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\target\mutants\40\IntegerBloomFilter.json
+2024-09-13 05:23:29,866 - logger - WARNING - No. 40 mutant missed. No test generated.
+2024-09-13 05:23:29,866 - logger - INFO - -----Generating test for mutant 44...
+2024-09-13 05:23:29,867 - logger - ERROR - File not found: C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\target\mutants\44\IntegerBloomFilter.json
+2024-09-13 05:23:29,867 - logger - WARNING - No. 44 mutant missed. No test generated.
+2024-09-13 05:23:29,867 - logger - INFO - -----Generating test for mutant 51...
+2024-09-13 05:23:44,706 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\IntegerBloomFilter51Test.java
+2024-09-13 05:23:44,707 - logger - INFO - Test code for No. 51 mutant generated.
+2024-09-13 05:23:44,707 - logger - INFO - -----Generating test for mutant 56...
+2024-09-13 05:23:57,340 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\IntegerBloomFilter56Test.java
+2024-09-13 05:23:57,341 - logger - INFO - Test code for No. 56 mutant generated.
+2024-09-13 05:23:57,341 - logger - INFO - -----Generating test for mutant 6...
+2024-09-13 05:24:05,969 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode6Test.java
+2024-09-13 05:24:05,970 - logger - INFO - Test code for No. 6 mutant generated.
+2024-09-13 05:24:05,970 - logger - INFO - -----Generating test for mutant 61...
+2024-09-13 05:24:16,271 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode61Test.java
+2024-09-13 05:24:16,272 - logger - INFO - Test code for No. 61 mutant generated.
+2024-09-13 05:24:16,272 - logger - INFO - -----Generating test for mutant 67...
+2024-09-13 05:24:30,838 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode67Test.java
+2024-09-13 05:24:30,838 - logger - INFO - Test code for No. 67 mutant generated.
+2024-09-13 05:24:30,838 - logger - INFO - -----Generating test for mutant 74...
+2024-09-13 05:24:45,682 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode74Test.java
+2024-09-13 05:24:45,682 - logger - INFO - Test code for No. 74 mutant generated.
+2024-09-13 05:24:45,682 - logger - INFO - -----Generating test for mutant 80...
+2024-09-13 05:25:02,302 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode80Test.java
+2024-09-13 05:25:02,302 - logger - INFO - Test code for No. 80 mutant generated.
+2024-09-13 05:25:02,302 - logger - INFO - -----Generating test for mutant 86...
+2024-09-13 05:25:33,144 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode86Test.java
+2024-09-13 05:25:33,145 - logger - INFO - Test code for No. 86 mutant generated.
+2024-09-13 05:25:33,145 - logger - INFO - -----Generating test for mutant 90...
+2024-09-13 05:26:22,682 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode90Test.java
+2024-09-13 05:26:22,683 - logger - INFO - Test code for No. 90 mutant generated.
+2024-09-13 05:26:22,683 - logger - INFO - -----Generating test for mutant 93...
+2024-09-13 05:26:44,626 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\InternalNode93Test.java
+2024-09-13 05:26:44,627 - logger - INFO - Test code for No. 93 mutant generated.
+2024-09-13 05:26:44,627 - logger - INFO - -----Generating test for mutant 98...
+2024-09-13 05:26:58,650 - logger - INFO - Save test code to C:\YGL\Projects\pythonProject\MutationTestGEN-LLM\projUT\BPlusTree_1509184036737\src\test\java\net\mooctest\LeafNode98Test.java
+2024-09-13 05:26:58,651 - logger - INFO - Test code for No. 98 mutant generated.
+2024-09-13 05:26:58,651 - logger - INFO - Test generation finished. 20 tests generated.
+2024-09-26 12:36:25,411 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:36:25,411 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:36:25,413 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:36:25,413 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:37:44,573 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:37:44,573 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:37:44,574 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:37:44,574 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:38:19,372 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:38:19,372 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:38:19,373 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:38:19,373 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:39:16,369 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:39:16,369 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:39:16,370 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:39:16,370 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:43:48,948 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:43:48,948 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:43:48,948 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:43:48,948 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:51:58,833 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:51:58,833 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:51:58,834 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:51:58,834 - logger - INFO - Combining ast and calls for project .idea
+2024-09-26 12:53:36,631 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:53:36,631 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:53:36,631 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:53:36,631 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:53:36,703 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:53:36,703 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:54:34,286 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:54:34,286 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:54:34,286 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:54:34,286 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:56:40,346 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:56:40,346 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:56:40,346 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:56:40,346 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:56:40,353 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:56:40,353 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:56:53,084 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:56:53,084 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 12:56:53,084 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:56:53,084 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 12:56:53,091 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:56:53,091 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 12:56:53,098 - logger - INFO - -----Generating test for mutant 1...
+2024-09-26 12:56:53,098 - logger - INFO - -----Generating test for mutant 1...
+2024-09-26 13:21:15,244 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 13:21:15,244 - logger - INFO - =======================================Start Combining=======================================
+2024-09-26 13:21:15,244 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 13:21:15,244 - logger - INFO - Combining ast and calls for project BPlusTree_1509184036737
+2024-09-26 13:21:15,289 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 13:21:15,289 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-26 13:21:15,295 - logger - INFO - -----Generating test for mutant 1...
+2024-09-26 13:21:15,295 - logger - INFO - -----Generating test for mutant 1...
+2024-09-26 13:21:25,092 - logger - WARNING - Test code for No. 1 mutant failed to generate.
+2024-09-26 13:21:25,092 - logger - WARNING - Test code for No. 1 mutant failed to generate.
+2024-09-26 13:21:25,092 - logger - INFO - -----Generating test for mutant 10...
+2024-09-26 13:21:25,092 - logger - INFO - -----Generating test for mutant 10...
+2024-09-26 13:21:31,282 - logger - WARNING - Test code for No. 10 mutant failed to generate.
+2024-09-26 13:21:31,282 - logger - WARNING - Test code for No. 10 mutant failed to generate.
+2024-09-26 13:21:31,282 - logger - INFO - -----Generating test for mutant 100...
+2024-09-26 13:21:31,282 - logger - INFO - -----Generating test for mutant 100...

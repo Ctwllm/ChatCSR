@@ -3,7 +3,7 @@ import os.path
 from src.utils import file_utils
 
 """
-将JavaParser解析得到的结果进行合并
+combine ast_json and method_call_json
 """
 def combine_ast_calls(ast_file_path: str, method_calls_file_path: str, combine_file_path: str):
     with open(ast_file_path, "r") as code_file:

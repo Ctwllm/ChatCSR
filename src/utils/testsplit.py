@@ -24,7 +24,7 @@ def get_test_methods(file_path):
         # 继续向前查找，直到找到第一个 {
         while content[start_index] != '{':
             start_index += 1
-        brace_count = 1  # 已经找到了一个 got one brace
+        brace_count = 1  # got one brace
         for i in range(start_index + 1, len(content)):
             if content[i] == '{':
                 brace_count += 1
